@@ -4,6 +4,7 @@ https://where2.vercel.app
 Welcome to WhereTo, your go-to app for discovering the hidden gems around you! 
 
 With a simple input of your postcode, WhereTo utilizes powerful APIs to curate a list of the closest attractions just for you. 
+
 ![Screenshot 2023-12-21 at 2 06 31 PM](https://github.com/joeykyleung/WhereTo/assets/77413460/e758be58-b24a-4123-821a-7c0291ae78c2)
 ![Screenshot 2023-12-21 at 2 06 37 PM](https://github.com/joeykyleung/WhereTo/assets/77413460/83b4263d-92f4-4809-856f-45caf512af83)
 
